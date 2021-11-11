@@ -1,0 +1,4 @@
+/mnt/c/Users/zvesd/Videos/LaboratoryWorkN2/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/zvesd/Videos/LaboratoryWorkN2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/zvesd/Videos/LaboratoryWorkN2/build/CMakeFiles/lw2.dir
+/mnt/c/Users/zvesd/Videos/LaboratoryWorkN2/build/CMakeFiles/table.dir
