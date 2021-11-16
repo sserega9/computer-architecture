@@ -3,8 +3,6 @@
 ### Keys:
 | Information | Short key | Long key |
 |----------------------|----|--------|
-| Help. Show help list | -h | --help | 
-| Input file | -i | --input | 
-| Output file | -o | --output | 
+| Show help list | -h | --help | 
 | Value(int) | -v | --value | 
 | List of number | -l | --list | 
